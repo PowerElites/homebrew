@@ -34,6 +34,7 @@
 		],
 		"dependencies": {
 			"class": [
+				"ValdaSpireExtras",
 				"VSS"
 			]
 		},
@@ -42,8 +43,8 @@
 		},
 		"edition": "classic",
 		"dateAdded": 1630837790,
-		"dateLastModified": 1790286463,
-		"_dateLastModifiedHash": "7285441b0c"
+		"dateLastModified": 1795022644,
+		"_dateLastModifiedHash": "508fa8ba2b"
 	},
 	"class": [
 		{
@@ -27233,7 +27234,10 @@
 			"size": [
 				"L"
 			],
-			"type": "ooze",
+			"type": {
+				"type": "ooze",
+				"swarmSize": "T"
+			},
 			"alignment": [
 				"L",
 				"N"

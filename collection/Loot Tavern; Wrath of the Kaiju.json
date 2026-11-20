@@ -21,16 +21,13 @@
 		"dependencies": {
 			"class": [
 				"HelianasGuidetoMonsterHunting"
-			],
-			"monster": [
-				"RyokoGuideToYokaiRealms"
 			]
 		},
 		"edition": "classic",
 		"status": "ready",
 		"dateAdded": 1758326400,
-		"dateLastModified": 1790286463,
-		"_dateLastModifiedHash": "309ce2fafa"
+		"dateLastModified": 1795019553,
+		"_dateLastModifiedHash": "8471c59253"
 	},
 	"feat": [
 		{
@@ -14562,7 +14559,7 @@
 					{
 						"type": "abilityGeneric",
 						"name": "Save DC",
-						"text": "8 + the tamer's proficiency bonus + the mushamushi's Dexterity modifier"
+						"entry": "8 + the tamer's proficiency bonus + the mushamushi's Dexterity modifier"
 					},
 					{
 						"type": "entries",
@@ -15822,7 +15819,7 @@
 					{
 						"type": "abilityGeneric",
 						"name": "Save DC",
-						"text": "8 + the tamer's proficiency bonus + the onibi's Wisdom modifier"
+						"entry": "8 + the tamer's proficiency bonus + the onibi's Wisdom modifier"
 					},
 					{
 						"type": "entries",
@@ -17119,7 +17116,7 @@
 					{
 						"type": "abilityGeneric",
 						"name": "Save DC",
-						"text": "8 + the tamer's proficiency bonus + the raikoji's Dexterity modifier"
+						"entry": "8 + the tamer's proficiency bonus + the raikoji's Dexterity modifier"
 					},
 					{
 						"type": "entries",
@@ -17570,7 +17567,7 @@
 					{
 						"type": "abilityGeneric",
 						"name": "Save DC",
-						"text": "8 + the tamer's proficiency bonus + the shumongani's Charisma modifier"
+						"entry": "8 + the tamer's proficiency bonus + the shumongani's Charisma modifier"
 					},
 					{
 						"type": "entries",
@@ -19142,7 +19139,7 @@
 					{
 						"type": "abilityGeneric",
 						"name": "Save DC",
-						"text": "8 + the tamer's proficiency bonus + the tatsugoi's Constitution modifier"
+						"entry": "8 + the tamer's proficiency bonus + the tatsugoi's Constitution modifier"
 					},
 					{
 						"type": "entries",
